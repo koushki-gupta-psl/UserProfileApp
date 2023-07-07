@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+.cardBox {
+  display: flex;
+  justify-content: center;
+  margin-top: 10%;
+
+
+}
+
+.card {
+  justify-content: center;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+
+
+}
+
+.cardContent {
+  display: flex;
+
+}
+
+.titleBox {
+  padding: 1rem;
+}
+
+.detailBox {
+  padding: 1rem;
+
+
+}
+
+.title {
+  font-weight: bold !important;
+}
+
+.avtar {
+  background: #064663 !important;
+ margin: auto;
+}
+
+.homeButton {
+
+  color: #064663 !important;
+  border: 1px solid #064663 !important;
+  
+  
+}
+
+.homeButton:hover{
+    background: #064663 !important;
+      color: white !important;
+     
+  }

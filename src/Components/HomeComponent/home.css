@@ -1,0 +1,15 @@
+.sortLabel{
+    color: antiquewhite !important;
+}
+
+.tableHead{
+    background-color:#064663 !important;
+    color:white !important;
+}
+
+.tableContainer{
+    max-height: 440;
+}
+.css-1qgma8u-MuiButtonBase-root-MuiTableSortLabel-root.Mui-active .MuiTableSortLabel-icon {
+    color:white  !important;
+}
